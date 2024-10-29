@@ -19,8 +19,8 @@ CONTACT BOT DEVELOPER
 
 ## ```Bot Support Group Chats```
 
-- [`BOT WHATSAPP GROUP`]https:(//chat.whatsapp.com/BM7F8CC4yMO9iJynKkiflU)
-- [`BOT WHATSAPP Channel`](https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31/0029VaNPPwR30LKQk437x51Q)
+- [`BOT WHATSAPP GROUP`](https://chat.whatsapp.com/BM7F8CC4yMO9iJynKkiflU/I5xIShFtrk43tfaWEmppNH)
+- [`BOT WHATSAPP CHANNEL Channel`](https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31/0029VaNPPwR30LKQk437x51Q)
 
 
 
