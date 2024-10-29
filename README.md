@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝙏𝙄𝙈𝙉𝘼𝙎𝘼+𝙏𝙀𝘾𝙃+𝘽𝙐𝙂𝘽𝙊𝙏⚡;𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣+𝗖𝗥𝗔𝗦𝗛+x+𝗕𝗨𝗚+𝗕𝗢𝗧;𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗+𝗕𝗬+𝗧𝗜𝗠𝗡𝗔𝗦𝗔+𝗧𝗘𝗖𝗛;FORk+AND+STAR MY REPO." alt="Typing SVG" /></a>
 <p align="center">
-<img src="https://telegra.ph/file/1335d3dde45b461134016.jpg"/>
+<img src="https://files.catbox.moe/1o3jfs.jpg/1335d3dde45b461134016.jpg"/>
 
 </p>
 
@@ -14,7 +14,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=WHATSAPP+XBUGBOT+CRASH)](https://git.io/typing-svg)
 
 CONTACT BOT DEVELOPER 
-- <a aria-label="Join our chats" href="255784766591?text=Hi!! `ARLODRAGON` Sir, I need Your Help" target="_blank">
+- <a aria-label="Join our chats" href="255784766591?text=Hi!! `TIMNASATECH` Sir, I need Your Help" target="_blank">
     <img alt="tiktok" src="https://img.shields.io/badge/CREATOR%20Whatsappchat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ## ```Bot Support Group Chats```
@@ -28,7 +28,7 @@ CONTACT BOT DEVELOPER
 # Setup For Deployment ☊
 
 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗣𝗟𝗘𝗔𝗦𝗘+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢+⚡)](https://git.io/typing-svg)
-  [`CLICK HERE TO FORK`](https://github.com/Kingdragony/Tiger-Bugbot-Radiation/fork)
+  [`CLICK HERE TO FORK`](https://github.com/Kingdragony/Timnasa-Bugbot-Radiation/fork)
 
 ## `Generate Pair Code For Session`
 
@@ -38,7 +38,7 @@ CONTACT BOT DEVELOPER
 .[`𝐍𝐄𝐖 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://radiator-bugbot-0fca1b340aab.herokuapp.com/pair).
 
    
-<img src="https://i.ibb.co/HtT3vjm/goku-gif-3.gif" width="1000">
+<img src="https://files.catbox.moe/1o3jfs.jpg" width="1000">
  
     
 ⚡ HEROKU BUILDPACKS 
@@ -106,7 +106,7 @@ yarn install
 npm start
 ```
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+FOR VPS ⟱" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+FOR vps+×timnasa ⟱" alt="Typing SVG" /></a>
   
 ```bash
 apt install nodejs 
