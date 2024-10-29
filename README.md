@@ -27,7 +27,7 @@ CONTACT BOT DEVELOPER
 # Setup For Deployment ☊
 
 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗣𝗟𝗘𝗔𝗦𝗘+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢+⚡)](https://git.io/typing-svg)
-  [`CLICK HERE TO FORK`](https://github.com/Kingdragony/Timnasa-Bugbot-Radiation/fork)
+  [`CLICK HERE TO FORK`](https://github.com/Timotheomgaya25/Timnasa-Bugbot-Radiation/fork)
 
 ## `Generate Pair Code For Session`
 
@@ -47,11 +47,11 @@ CONTACT BOT DEVELOPER
 heroku/nodejs
 ```
 ```bash
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/Timotheomgaya25/heroku-buildpack-ffmpeg-latest
 
  ````
 ```bash
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+https://github.com/Timotheomgaya25/heroku-buildpack-webp-binaries.git
 
 ```
 *Add your Creds.json to 𝚃𝚒𝚖𝚗𝚊𝚜𝚊 file
@@ -99,7 +99,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Kingdragony/Tiger-Bugbot-Radiation
+git clone https://github.com/Timotheomgaya25/Tiger-Bugbot-Radiation
 cd T𝙸𝙼𝙽𝙰𝚂𝙰-BUGBOT-RADIATION 
 yarn install
 npm start
@@ -114,7 +114,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Kingdragony/Ti𝚖𝚗𝚊𝚜𝚊-Bugbot-Radiation 
+git clone https://github.com/Timotheomgaya25/Ti𝚖𝚗𝚊𝚜𝚊-Bugbot-Radiation 
 cd TIMNASA-BUGBOT-RADIATION 
 npm start
 ```
