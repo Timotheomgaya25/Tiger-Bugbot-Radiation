@@ -34,7 +34,7 @@ CONTACT BOT DEVELOPER
 [`👉+𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://fredietech.onrender.com/)
     
 
-.[`𝐍𝐄𝐖 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://radiator-bugbot-0fca1b340aab.herokuapp.com/pair).
+.[`𝐍𝐄𝐖 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://yesset-md-099be347ecc5.herokuapp.com/).
 
    
 <img src="https://files.catbox.moe/1o3jfs.jpg" width="1000">
