@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝐓𝐈𝐆𝐄𝐑+𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄+𝐁𝐔𝐆𝐁𝐎𝐓⚡;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝙰𝚁𝙻𝙾+𝙳𝚁𝙰𝙶𝙾𝙽;FORK+AND+STAR MY REPO." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝙏𝙄𝙈𝙉𝘼𝙎𝘼+𝙏𝙀𝘾𝙃+𝘽𝙐𝙂𝘽𝙊𝙏⚡;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝙰𝚁𝙻𝙾+𝙳𝚁𝙰𝙶𝙾𝙽;FORK+AND+STAR MY REPO." alt="Typing SVG" /></a>
 <p align="center">
 <img src="https://telegra.ph/file/1335d3dde45b461134016.jpg"/>
 
@@ -32,7 +32,7 @@ CONTACT BOT DEVELOPER
 
 ## `Generate Pair Code For Session`
 
-[`𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍-𝐓𝐈𝐆𝐄𝐑 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://radiator-codes-caf19f48b507.herokuapp.com/pair)
+[`👉+𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://radiator-codes-caf19f48b507.herokuapp.com/pair)
     
 
 .[`𝐍𝐄𝐖 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://radiator-bugbot-0fca1b340aab.herokuapp.com/pair).
@@ -55,7 +55,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```
-*Add your Creds.json to 𝚃𝙸𝙶𝙴𝚁𝚂𝙴𝚂𝚂𝙸𝙾𝙽 file
+*Add your Creds.json to 𝚃𝚒𝚖𝚗𝚊𝚜𝚊 file
 * Create a new app at [Heroku](https://dashboard.heroku.com/new-app)
 * Add Build packs
 * Connect your heroku with your github
@@ -101,7 +101,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/Kingdragony/Tiger-Bugbot-Radiation
-cd TIGER-BUGBOT-RADIATION 
+cd T𝙸𝙼𝙽𝙰𝚂𝙰-BUGBOT-RADIATION 
 yarn install
 npm start
 ```
@@ -115,7 +115,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Kingdragony/Tiger-Bugbot-Radiation 
+git clone https://github.com/Kingdragony/Ti𝚖𝚗𝚊𝚜𝚊-Bugbot-Radiation 
 cd TIGER-BUGBOT-RADIATION 
 npm start
 ```
