@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝙏𝙄𝙈𝙉𝘼𝙎𝘼+𝙏𝙀𝘾𝙃+𝘽𝙐𝙂𝘽𝙊𝙏⚡;𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣+𝗖𝗥𝗔𝗦𝗛+x+𝗕𝗨𝗚+𝗕𝗢𝗧;𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗+𝗕𝗬+𝗧𝗜𝗠𝗡𝗔𝗦𝗔+𝗧𝗘𝗖𝗛;FORk+AND+STAR MY REPO." alt="Typing SVG" /></a>
 <p align="center">
-<img>+src="
+<img>
 </p>
 
 
