@@ -27,11 +27,11 @@ CONTACT BOT DEVELOPER
 # Setup For Deployment ☊
 
 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗣𝗟𝗘𝗔𝗦𝗘+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢+⚡)](https://git.io/typing-svg)
-  [`CLICK HERE TO FORK`](https://github.com/Timotheomgaya25/Timnasa-Bugbot-Radiation/fork)
+  [`CLICK HERE TO FORK`](https://github.com/Timotheomgaya25/Timnasa-Bugbot-Timnasa/fork)
 
 ## `Generate Pair Code For Session`
 
-[`👉+𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://radiator-codes-caf19f48b507.herokuapp.com/pair)
+[`👉+𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://timnasatech.onrender.com/pair)
     
 
 .[`𝐍𝐄𝐖 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://radiator-bugbot-0fca1b340aab.herokuapp.com/pair).
