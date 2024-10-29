@@ -20,7 +20,7 @@ CONTACT BOT DEVELOPER
 ## ```Bot Support Group Chats```
 
 - [`BOT WHATSAPP GROUP`](https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH)
-- [`BOT WHATSAPP Channel`](https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q)
+- [`BOT WHATSAPP Channel`](https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31/0029VaNPPwR30LKQk437x51Q)
 
 
 
@@ -41,7 +41,7 @@ CONTACT BOT DEVELOPER
 <img src="https://files.catbox.moe/1o3jfs.jpg" width="1000">
  
     
-⚡ HEROKU BUILDPACKS 
+😎⚡ HEROKU BUILDPACKS 
   
   
   ```bash
